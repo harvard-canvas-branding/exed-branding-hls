@@ -1,6 +1,6 @@
 if (window.ga) {
   try {
-    ga('create', 'UA-tbd', 'auto', 'hlsTracker');
+    ga('create', 'UA-158802728-1', 'auto', 'hlsTracker');
     ga('hlsTracker.set', 'anonymizeIp', true);
 
     ga('hlsTracker.send', 'pageview');
